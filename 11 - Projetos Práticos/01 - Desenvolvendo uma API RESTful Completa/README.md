@@ -1,4 +1,3 @@
-
 # Desenvolvendo uma API RESTful Completa
 
 ## O que é uma API RESTful?

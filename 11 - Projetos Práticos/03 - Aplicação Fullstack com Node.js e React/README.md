@@ -105,7 +105,7 @@ export default App;
 1. Crie uma pasta para o backend e um arquivo **server.js**.
 2. Instale o Express e o CORS:
    ```bash
-   npm init -y
+   npm init
    npm install express cors
    ```
 3. Copie o código do backend no arquivo **server.js**.
@@ -119,11 +119,11 @@ O servidor estará disponível em **http://localhost:3000**.
 
 1. Crie o frontend usando o **Create React App**:
    ```bash
-   npx create-react-app meu-app
+   npx create-react-app web
    ```
 2. Acesse o diretório do projeto React:
    ```bash
-   cd meu-app
+   cd web
    ```
 3. Instale o **Axios**:
    ```bash

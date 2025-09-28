@@ -1,4 +1,3 @@
-
 # Melhorando a Performance da Aplicação
 
 ## Caching

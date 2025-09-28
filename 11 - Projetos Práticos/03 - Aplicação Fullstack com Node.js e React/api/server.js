@@ -12,7 +12,8 @@ app.use(cors());
 const usuarios = [
   { id: 1, nome: 'João' },
   { id: 2, nome: 'Maria' },
-  { id: 3, nome: 'José' }
+  { id: 3, nome: 'Pedro' },
+  { id: 4, nome: 'José' }
 ];
 
 // Rota para retornar a lista de usuários
@@ -22,5 +23,5 @@ app.get('/usuarios', (req, res) => {
 
 // Inicia o servidor
 app.listen(port, () => {
-  console.log(`Servidor backend rodando na porta ${port}`);
+  console.log(`Servidor backend rodando na porta http://localhost:${port}`);
 });
