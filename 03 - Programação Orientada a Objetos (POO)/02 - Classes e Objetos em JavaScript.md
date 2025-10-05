@@ -27,12 +27,3 @@ pessoa1.saudacao();  // Olá, meu nome é João e tenho 25 anos.
 
 ## Instanciação de objetos
 A instância de um objeto é criada com a palavra-chave new. A classe define o modelo, e o objeto é a instância criada.
-
-
-
-
-
-
-
-
-O ChatGPT pode cometer erros. Considere verificar informações importantes.

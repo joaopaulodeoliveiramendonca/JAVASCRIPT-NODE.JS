@@ -52,12 +52,3 @@ gato.falar(); // Whiskers mia
 let animal = new Animal("Generic Animal");
 animal.falar(); // Generic Animal faz um som
 ```
-
-
-
-
-
-
-
-
-O ChatGPT pode cometer erros. Considere verificar informações importantes.
